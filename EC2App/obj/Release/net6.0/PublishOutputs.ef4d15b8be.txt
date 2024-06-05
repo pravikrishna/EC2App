@@ -1,0 +1,7 @@
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\PubTmp\Out\EC2App.exe
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\PubTmp\Out\EC2App.dll
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\PubTmp\Out\EC2App.deps.json
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\PubTmp\Out\EC2App.runtimeconfig.json
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\PubTmp\Out\EC2App.pdb

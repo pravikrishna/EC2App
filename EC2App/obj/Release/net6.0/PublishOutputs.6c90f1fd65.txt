@@ -1,0 +1,7 @@
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\PubTmp\Out\EC2App.exe
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\PubTmp\Out\EC2App.dll
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\PubTmp\Out\EC2App.deps.json
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\PubTmp\Out\EC2App.runtimeconfig.json
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\PubTmp\Out\EC2App.pdb

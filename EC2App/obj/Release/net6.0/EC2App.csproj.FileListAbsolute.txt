@@ -1,0 +1,60 @@
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\bin\Release\net6.0\appsettings.Development.json
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\bin\Release\net6.0\appsettings.json
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\bin\Release\net6.0\EC2App.staticwebassets.runtime.json
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\bin\Release\net6.0\EC2App.exe
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\bin\Release\net6.0\EC2App.deps.json
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\bin\Release\net6.0\EC2App.runtimeconfig.json
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\bin\Release\net6.0\EC2App.dll
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\bin\Release\net6.0\EC2App.pdb
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\EC2App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\EC2App.AssemblyInfoInputs.cache
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\EC2App.AssemblyInfo.cs
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\EC2App.csproj.CoreCompileInputs.cache
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\EC2App.MvcApplicationPartsAssemblyInfo.cache
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\EC2App.RazorAssemblyInfo.cache
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\EC2App.RazorAssemblyInfo.cs
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\staticwebassets.build.json
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\staticwebassets.development.json
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\staticwebassets\msbuild.EC2App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\staticwebassets\msbuild.build.EC2App.props
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.EC2App.props
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.EC2App.props
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\staticwebassets.pack.json
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\scopedcss\bundle\EC2App.styles.css
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\scopedcss\projectbundle\EC2App.bundle.scp.css
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\EC2App.dll
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\refint\EC2App.dll
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\EC2App.pdb
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\EC2App.genruntimeconfig.cache
+D:\Tribe\SVN Repository\EC2App\EC2App\EC2App\obj\Release\net6.0\ref\EC2App.dll
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\bin\Release\net6.0\appsettings.Development.json
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\bin\Release\net6.0\appsettings.json
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\bin\Release\net6.0\EC2App.staticwebassets.runtime.json
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\bin\Release\net6.0\EC2App.exe
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\bin\Release\net6.0\EC2App.deps.json
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\bin\Release\net6.0\EC2App.runtimeconfig.json
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\bin\Release\net6.0\EC2App.dll
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\bin\Release\net6.0\EC2App.pdb
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\EC2App.GeneratedMSBuildEditorConfig.editorconfig
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\EC2App.AssemblyInfoInputs.cache
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\EC2App.AssemblyInfo.cs
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\EC2App.csproj.CoreCompileInputs.cache
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\EC2App.MvcApplicationPartsAssemblyInfo.cache
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\EC2App.RazorAssemblyInfo.cache
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\EC2App.RazorAssemblyInfo.cs
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\staticwebassets.build.json
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\staticwebassets.development.json
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\staticwebassets\msbuild.EC2App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\staticwebassets\msbuild.build.EC2App.props
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.EC2App.props
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.EC2App.props
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\staticwebassets.pack.json
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\scopedcss\bundle\EC2App.styles.css
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\scopedcss\projectbundle\EC2App.bundle.scp.css
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\EC2App.dll
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\refint\EC2App.dll
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\EC2App.pdb
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\EC2App.genruntimeconfig.cache
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\ref\EC2App.dll

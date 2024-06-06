@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EC2App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e96ce5d830d1c1a17d8fdf6ec0d816713171951b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EC2App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EC2App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

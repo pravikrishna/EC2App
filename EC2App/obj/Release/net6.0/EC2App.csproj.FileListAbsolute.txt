@@ -58,3 +58,4 @@ D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\refint\EC2App.
 D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\EC2App.pdb
 D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\EC2App.genruntimeconfig.cache
 D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\ref\EC2App.dll
+D:\AI and GPT Training\weec_repo\EC2App\EC2App\obj\Release\net6.0\EC2App.sourcelink.json
